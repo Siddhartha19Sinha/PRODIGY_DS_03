@@ -4,6 +4,7 @@
 ##
 ![Image 1](https://github.com/Siddhartha19Sinha/PRODIGY_DS_03/blob/main/Image1.png)
 ![Image 2](https://github.com/Siddhartha19Sinha/PRODIGY_DS_03/blob/main/Image2.jpg)
+![Image 3](https://github.com/Siddhartha19Sinha/PRODIGY_DS_03/blob/main/Image3.jpg)
 
 ---
 This repository contains a Python implementation of a Decision Tree Classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. The dataset used for this analysis is the Bank Marketing dataset from the UCI Machine Learning Repository.
