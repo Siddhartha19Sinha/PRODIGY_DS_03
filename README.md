@@ -1,5 +1,5 @@
 # PRODIGY_DS_03 🌟
-# 🌳 DECISION TREE CLASSIFIER FOR CUSTOMER PURCHASE PREDICTION
+# DECISION TREE CLASSIFIER FOR CUSTOMER PURCHASE PREDICTION 🌳 
 
 ##
 ![Image 1](https://github.com/Siddhartha19Sinha/PRODIGY_DS_03/blob/main/Image1.png)
@@ -36,7 +36,7 @@ To run the code in the Jupyter Notebook, you need the following libraries:
 ```
 https://github.com/Siddhartha19Sinha/PRODIGY_DS_03.git
 ```
-2. Open and run the `decision_tree_classifier.ipynb` notebook in Jupyter Notebook.
+2. Open and run the `Decision_Tree_Classifier.ipynb` notebook in Jupyter Notebook.
 
 3. Follow the instructions in the notebook to execute each code cell and analyze the results.
 
