@@ -43,4 +43,5 @@ https://github.com/Siddhartha19Sinha/PRODIGY_DS_03.git
 
 This project demonstrates the implementation of a Decision Tree Classifier to predict customer purchase behavior based on demographic and behavioral data. The model is trained and evaluated using the Bank Marketing dataset, and its performance metrics are analyzed.
 
-For any questions or suggestions, feel free to contact me at siddhartha19sinha@gmail.com (mailto: siddhartha19sinha@gmail.com).
+For any questions or suggestions, feel free to contact me at [siddhartha19sinha@gmail.com](mailto:siddhartha19sinha@gmail.com).
+
