@@ -1,5 +1,11 @@
-# 🌳 Decision Tree Classifier for Customer Purchase Prediction
+# PRODIGY_DS_03
+# 🌳 DECISION TREE CLASSIFIER FOR CUSTOMER PURCHASE PREDICTION
 
+##
+![Image 1](https://github.com/Siddhartha19Sinha/PRODIGY_DS_03/blob/main/Image1.png)
+![Image 2](https://github.com/Siddhartha19Sinha/PRODIGY_DS_03/blob/main/Image2.jpg)
+
+---
 This repository contains a Python implementation of a Decision Tree Classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. The dataset used for this analysis is the Bank Marketing dataset from the UCI Machine Learning Repository.
 
 ## 📊 Dataset
@@ -27,9 +33,9 @@ To run the code in the Jupyter Notebook, you need the following libraries:
 1. Clone the repository:
 
 ```
-https://github.com/Debolina10Chatterjee/PRODIGY_DS_03.git
+https://github.com/Siddhartha19Sinha/PRODIGY_DS_03.git
 ```
-2. Open and run the `decision_tree_classifier.ipynb` notebook in Colab Notebook.
+2. Open and run the `decision_tree_classifier.ipynb` notebook in Jupyter Notebook.
 
 3. Follow the instructions in the notebook to execute each code cell and analyze the results.
 
@@ -37,4 +43,4 @@ https://github.com/Debolina10Chatterjee/PRODIGY_DS_03.git
 
 This project demonstrates the implementation of a Decision Tree Classifier to predict customer purchase behavior based on demographic and behavioral data. The model is trained and evaluated using the Bank Marketing dataset, and its performance metrics are analyzed.
 
-For any questions or suggestions, feel free to contact Debolina Chatterjee at debolinachatterjee1011@gmail.com (mailto: debolinachatterjee1011@gmail.com).
+For any questions or suggestions, feel free to contact me at siddhartha19sinha@gmail.com (mailto: siddhartha19sinha@gmail.com).
